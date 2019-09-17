@@ -64,7 +64,8 @@ export default {
         {id: 'locacion1', value: '100'},
         {id: 'locacion2', value: '265'},
         {id: 'locacion3', value: '490'},
-        {id: 'locacion4', value: '108', fill: 'red 0.5', hoverFill: 'green 0.1', hoverStroke: '3 green'}
+        {id: 'locacion4', value: '108'}
+        // {id: 'locacion4', value: '108', fill: 'red 0.5', hoverFill: 'green 0.1', hoverStroke: '3 green'}
       ])
       // chart.interactivity(false)
       // chart.interactivity().zoomOnMouseWheel(true)
